@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![img](https://images.unsplash.com/photo-1635270511996-ea6166d4da04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2670&q=80)
 <!--
 **qudo-lucas/qudo-lucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
