@@ -1,5 +1,9 @@
 I code things, I design things, I teach things and onboard new devs to the Internetverse.
 
+**Discord:** [http://discord.com/users/631200715473158146](http://discord.com/users/631200715473158146)
+
+**$SOL Address:** [qudo.sol](https://naming.bonfida.org/#/domain/qudo)
+
 ### What The Dev Doin
 Some crypto stuffs -- lately I have been building tools for the NFT space in [Solana](https://solana.com). Me and some friends are developing a community and artwork generator to make it easy for creatives to get their generative artwork on the blockchain. [Join Discord](https://discord.gg/z4DU5UwX).
 
@@ -32,9 +36,3 @@ See config files I use across projects.
 - Desk: Fully Jarvis Bamboo
 - Mic: Audio-Technica ATR2100x
 - Monitor: Samsung C49HG9x
-
-<!-- ## 💬 Socials -->
-
-**Discord:** [http://discord.com/users/631200715473158146](http://discord.com/users/631200715473158146)
-
-**$SOL Address:** [qudo.sol](https://naming.bonfida.org/#/domain/qudo)
