@@ -17,11 +17,13 @@ I have a lot of fun thinking through project architecture and making ergonic tem
 [See All](https://github.com/qudo-lucas?tab=repositories&q=template&type=public&language=&sort=)
 
 ## 📝 My Configs
-See config files I use across projects [here](https://github.com/qudo-lucas/project-boilerplate--config-only).
+See config files I use across projects.
 - ESlist
 - Stylelint
 - Babel
 - VSCode settings
+- 
+[View Repository](https://github.com/qudo-lucas/project-boilerplate--config-only).
 
 ## 🧰 Toolbox
 - Computer: MackBook Air M1
