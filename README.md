@@ -36,4 +36,5 @@ See config files I use across projects.
 <!-- ## 💬 Socials -->
 
 **Discord:** [http://discord.com/users/631200715473158146](http://discord.com/users/631200715473158146)
+
 **$SOL Address:** [qudo.sol](https://naming.bonfida.org/#/domain/qudo)
