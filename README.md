@@ -23,7 +23,7 @@ See config files I use across projects.
 - Babel
 - VSCode settings
 - 
-[View Repository](https://github.com/qudo-lucas/project-boilerplate--config-only).
+[View Repository](https://github.com/qudo-lucas/project-boilerplate--config-only)
 
 ## 🧰 Toolbox
 - Computer: MackBook Air M1
