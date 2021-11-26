@@ -1,4 +1,3 @@
-# Qudo
 👋 Hey there, I am a creative and web dev from Seattle, WA. I code things, I design things, and I have a lot of fun onboarding new devs to the Internetverse. I am always happy to chat and walk through something together if you're stuck or just want to brainstorm.
 
 ### What The Dev Doin
