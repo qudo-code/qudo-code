@@ -22,7 +22,7 @@ See config files I use across projects.
 - Stylelint
 - Babel
 - VSCode settings
-- 
+
 [View Repository](https://github.com/qudo-lucas/project-boilerplate--config-only)
 
 ## 🧰 Toolbox
