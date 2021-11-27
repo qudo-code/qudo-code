@@ -1,7 +1,3 @@
-**$SOL Address:** [qudo.sol](https://naming.bonfida.org/#/domain/qudo)
-
-**Discord:** [http://discord.com/users/631200715473158146](http://discord.com/users/631200715473158146)
-
 I code things, I design things, I teach things and onboard new devs to the Internetverse.
 
 ### What The Dev Doin
@@ -36,3 +32,7 @@ See config files I use across projects.
 - Desk: Fully Jarvis Bamboo
 - Mic: Audio-Technica ATR2100x
 - Monitor: Samsung C49HG9x
+
+## 👋
+- **$SOL Address:** [qudo.sol](https://naming.bonfida.org/#/domain/qudo)
+- **Discord:** [http://discord.com/users/631200715473158146](http://discord.com/users/631200715473158146)
