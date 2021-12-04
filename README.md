@@ -1,7 +1,7 @@
-### 👋
+### 💡 What The Dev Doin
+
 I code things, I design things, I teach things and onboard new devs to the Internetverse.
 
-### 💡 What The Dev Doin
 - **Some crypto stuff** -- building tools for the NFT space in [Solana](https://solana.com). Me and some friends are developing a community and artwork generator to make it easy for creatives to get their generative artwork on the blockchain. [Join Discord](https://discord.gg/z4DU5UwX).
 
 - **Some state machine stuff** -- working on this POC called [State Machine Snacks](https://github.com/qudo-code/state-machine-snacks). Also checkout [xstate-component-tree](https://github.com/tivac/xstate-component-tree) which heavily inspired SMS.
