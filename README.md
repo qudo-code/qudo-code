@@ -1,3 +1,4 @@
+### 👋
 I code things, I design things, I teach things and onboard new devs to the Internetverse.
 
 ### 💡 What The Dev Doin
