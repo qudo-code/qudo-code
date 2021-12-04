@@ -10,7 +10,7 @@ I code things, I design things, I teach things and onboard new devs to the Inter
 - **Some Discord bot stuff** -- recently I figured out how to make a bot for the Snifty server that will return the current price of any ticker symbol. You can use it by typing `!SYMBOL` in any channel and it will reply to your message with the current price.
 
 ## 🚀 Templates
-Templates I frequently use to quickly spin up projects.
+Templates I have developed and frequently use to quickly spin up projects.
 - [Discord Bot Template](https://github.com/qudo-code/template--discord-bot).
 - [Svelte Template](https://github.com/qudo-code/template--svelte).
 - [NPM Package Template](https://github.com/qudo-code/template--npm-package).
