@@ -35,6 +35,6 @@ See config files I use across projects.
 - Mic: Audio-Technica ATR2100x
 - Monitor: Samsung C49HG9x
 
-## 👋
+## 👋 Connect
 - **$SOL Address:** [qudo.sol](https://naming.bonfida.org/#/domain/qudo)
 - **Discord:** [http://discord.com/users/631200715473158146](http://discord.com/users/631200715473158146)
