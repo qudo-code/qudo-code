@@ -15,6 +15,7 @@ Templates I have developed and frequently use to quickly spin up projects.
 - [Discord Bot Template](https://github.com/qudo-code/template--discord-bot)
 - [Svelte Template](https://github.com/qudo-code/template--svelte)
 - [NPM Package Template](https://github.com/qudo-code/template--npm-package)
+- [Electron + Express + Svelte]https://github.com/qudo-code/template--electron-express-svelte
 
 [See All](https://github.com/qudo-code?tab=repositories&q=template&type=public&language=&sort=)
 
