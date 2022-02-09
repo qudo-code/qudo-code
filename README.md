@@ -13,6 +13,7 @@ I code things, I design things, I teach things and onboard new devs to the Inter
 ## 🚀 Templates
 Templates I have developed and frequently use to quickly spin up projects.
 - [fx(hash) Generative Artwork Framework (WIP, use at own risk)](https://github.com/snifty-repo/fx-candy)
+- [Markdown Website (lazy website)](https://github.com/qudo-code/template--markdown-website)
 - [Electron + Express + Svelte](https://github.com/qudo-code/template--electron-express-svelte)
 - [Discord Bot Template](https://github.com/qudo-code/template--discord-bot)
 - [Svelte Template](https://github.com/qudo-code/template--svelte)
