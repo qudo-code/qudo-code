@@ -43,4 +43,4 @@ See config files I use across projects.
 - **$SOL Address:** [qudo.sol](https://naming.bonfida.org/#/domain/qudo)
 - **Discord:** [http://discord.com/users/631200715473158146](http://discord.com/users/631200715473158146)
 
-🥰
+🤝
