@@ -21,14 +21,34 @@ Templates I have developed and frequently use to quickly spin up projects.
 
 [See All](https://github.com/qudo-code?tab=repositories&q=template&type=public&language=&sort=)
 
+## Styles
+- [SCSS Boilerplate (grid + base styles)](https://github.com/qudo-code/template--scss)
+#### Add To Project
+1. Download to `./styles`: `npx degit github.com:qudo-code/template--scss styles`
+2. Reference in your entrypoint: `import "./styles/main.scss"`
+
 ## ⚙️ My Configs
+- [Configs Repo](https://github.com/qudo-code/template--config-only)
 See config files I use across projects.
 - ESlist
 - Stylelint
 - Babel
 - VSCode settings
+#### Add To Project
+1. Download to current directory: `npx degit github.com:qudo-code/template--config-only`
+2. Make sure you have [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) and [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) extensions installed.
 
-[View Repository](https://github.com/qudo-code/project-boilerplate--config-only)
+## VSCode Must Haves
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+- [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
+- [Theme: One Dark Pro Monokai Darker Theme
+](https://marketplace.visualstudio.com/items?itemName=eserozvataf.one-dark-pro-monokai-darker)
+- [Icons: vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
 ## 🧰 Toolbox
 - Computer: MackBook Air M1
