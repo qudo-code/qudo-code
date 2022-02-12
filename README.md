@@ -13,7 +13,7 @@ Templates I have developed and frequently use to quickly spin up projects.
 
 [See All](https://github.com/qudo-code?tab=repositories&q=template&type=public&language=&sort=)
 
-## My Styles
+## 🎨 My Styles
 
 #### Add To Project
 1. Download to `./styles`: `npx degit github.com:qudo-code/template--scss styles`
