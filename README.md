@@ -7,13 +7,12 @@ I code things, I design things, I teach things and onboard new devs to the Inter
 1. Scaffold Svelte boilerplate in current directory using my template: `npx degit github.com:qudo-code/template--svelte`
 2. _Optional_ Download base styles to `src/styles`: `npx degit github.com:qudo-code/template--scss src/styles`
 3. _Optional_ Download configs to current directory: `npx degit github.com:qudo-code/template--config-only --force`
+4. If downloaded styles, be sure to `import "src/styles/main.scss` in your `main.js`.
 
 **All at once:**
 ```
 npx degit github.com:qudo-code/template--svelte && npx degit github.com:qudo-code/template--scss src/styles && npx degit github.com:qudo-code/template--config-only --force
 ```
-
-
 
 ## 🚀 Templates
 Templates I have developed and frequently use to quickly spin up projects.
