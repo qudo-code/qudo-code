@@ -22,21 +22,24 @@ Templates I have developed and frequently use to quickly spin up projects.
 [See All](https://github.com/qudo-code?tab=repositories&q=template&type=public&language=&sort=)
 
 ## My Styles
-- [SCSS Boilerplate (grid + base styles)](https://github.com/qudo-code/template--scss)
 #### Add To Project
 1. Download to `./styles`: `npx degit github.com:qudo-code/template--scss styles`
 2. Reference in your entrypoint: `import "./styles/main.scss"`
 
+[SCSS Boilerplate (grid + base styles)](https://github.com/qudo-code/template--scss)
+
 ## ⚙️ My Configs
-- [Configs Repo](https://github.com/qudo-code/template--config-only)
 See config files I use across projects.
 - ESlist
 - Stylelint
 - Babel
 - VSCode settings
+- 
 #### Add To Project
 1. Download to current directory: `npx degit github.com:qudo-code/template--config-only`
 2. Make sure you have [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) and [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) extensions installed.
+
+[Configs Repo](https://github.com/qudo-code/template--config-only)
 
 ## VSCode Must Haves
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
