@@ -34,7 +34,6 @@ See config files I use across projects.
 - Stylelint
 - Babel
 - VSCode settings
-- 
 #### Add To Project
 1. Download to current directory: `npx degit github.com:qudo-code/template--config-only`
 2. Make sure you have [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) and [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) extensions installed.
