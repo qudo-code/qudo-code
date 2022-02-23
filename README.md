@@ -3,6 +3,10 @@
 I code things, I design things, I teach things and onboard new devs to the Internetverse.
 
 ## 🏃‍♂️💨 Quickstarts
+Create a project folder before running any of the following quickstart commands.
+
+Open your terminal and run something like `mkdir my-new-project && cd my-new-project`. Then run the following commands which will explode code in your current directory.
+
 ### Svelte
 1. Scaffold Svelte boilerplate in current directory using my template: `npx degit github.com:qudo-code/template--svelte`
 2. _Optional_ Download base styles to `src/styles`:
