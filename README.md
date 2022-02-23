@@ -12,10 +12,10 @@ I code things, I design things, I teach things and onboard new devs to the Inter
 6. If downloaded styles, be sure to add
    `import "src/styles/main.scss";` in your `main.js`.
 
-**All at once:**
-```
-npx degit github.com:qudo-code/template--svelte && npx degit github.com:qudo-code/template--scss src/styles && npx degit github.com:qudo-code/template--config-only --force
-```
+**All at once**
+
+`npx degit github.com:qudo-code/template--svelte && npx degit github.com:qudo-code/template--scss src/styles && npx degit github.com:qudo-code/template--config-only --force`
+
 
 ## 🚀 Templates
 Templates I have developed and frequently use to quickly spin up projects.
