@@ -10,7 +10,7 @@ I code things, I design things, I teach things and onboard new devs to the Inter
 4. _Optional_ Download configs to current directory:
    `npx degit github.com:qudo-code/template--config-only --force`
 6. If downloaded styles, be sure to add
-   `import "src/styles/main.scss` in your `main.js`.
+   `import "src/styles/main.scss";` in your `main.js`.
 
 **All at once:**
 ```
