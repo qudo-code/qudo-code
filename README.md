@@ -28,9 +28,10 @@ Templates I have developed and frequently use to quickly spin up projects.
 - [Markdown Website (lazy website)](https://github.com/qudo-code/template--markdown-website)
 - [Electron + Express + Svelte](https://github.com/qudo-code/template--electron-express-svelte)
 - [Discord Bot Template](https://github.com/qudo-code/template--discord-bot)
-- [fx(hash) Generative Artwork Framework (WIP, use at own risk)](https://github.com/snifty-repo/fx-candy)
-
 [See All](https://github.com/qudo-code?tab=repositories&q=template&type=public&language=&sort=)
+
+## 📦 Projects
+- [fx(hash) Generative Artwork Framework (WIP, use at own risk)](https://github.com/snifty-repo/fx-candy)
 
 ## 🎨 My Styles
 
