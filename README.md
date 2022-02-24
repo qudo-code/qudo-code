@@ -55,7 +55,7 @@ See config files I use across projects.
 
 [Configs Repo](https://github.com/qudo-code/template--config-only)
 
-## VSCode Must Haves
+## 🧑‍💻 VSCode Must Haves
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
