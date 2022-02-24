@@ -9,7 +9,7 @@ Open your terminal and run something like `mkdir my-new-project && cd my-new-pro
 
 ### Svelte
 1. Scaffold Svelte boilerplate in current directory using my template: `npx degit github.com:qudo-code/template--svelte`
-2. _Optional_ Download base styles to `src/styles`:
+2. _Optional_ Download my base styles to `src/styles`:
    `npx degit github.com:qudo-code/template--scss src/styles`
 4. _Optional_ Download configs to current directory:
    `npx degit github.com:qudo-code/template--config-only --force`
