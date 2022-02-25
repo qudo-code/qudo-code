@@ -22,6 +22,8 @@ Open your terminal and run something like `mkdir my-new-project && cd my-new-pro
 
 ## ✍️ Gists
 Code snippets that I have found useful to keep around.
+- [State Factory (Svelte)](https://gist.github.com/qudo-code/e241814d8448d0c1cccb4b998eda5cea)
+
 [See All](https://gist.github.com/qudo-code)
 
 ## 🚀 Templates
