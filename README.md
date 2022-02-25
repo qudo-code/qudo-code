@@ -20,6 +20,9 @@ Open your terminal and run something like `mkdir my-new-project && cd my-new-pro
 
 `npx degit github.com:qudo-code/template--svelte && npx degit github.com:qudo-code/template--scss src/styles && npx degit github.com:qudo-code/template--config-only --force`
 
+## ✍️ Gists
+Code snippets that I have found useful to keep around.
+[See All](https://gist.github.com/qudo-code)
 
 ## 🚀 Templates
 Templates I have developed and frequently use to quickly spin up projects.
