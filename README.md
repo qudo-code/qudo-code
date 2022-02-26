@@ -36,8 +36,9 @@ Templates I have developed and frequently use to quickly spin up projects.
 
 [See All](https://github.com/qudo-code?tab=repositories&q=template&type=public&language=&sort=)
 
-## 📦 Projects
-- [fx(hash) Generative Artwork Framework (WIP, use at own risk)](https://github.com/snifty-repo/fx-candy)
+## 📦 Public Projects
+- [fx(hash) Generative Artwork Framework (WIP)](https://github.com/snifty-repo/fx-candy)
+- [State Machine Snacks](https://github.com/qudo-code/state-machine-snacks). Also checkout [xstate-component-tree](https://github.com/tivac/xstate-component-tree)
 
 ## 🎨 My Styles
 
