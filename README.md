@@ -11,14 +11,32 @@ Open your terminal and run something like `mkdir my-new-project && cd my-new-pro
 1. Scaffold Svelte boilerplate in current directory using my template: `npx degit github.com:qudo-code/template--svelte`
 2. _Optional_ Download my base styles to `src/styles`:
    `npx degit github.com:qudo-code/template--scss src/styles`
-4. _Optional_ Download configs to current directory:
+3. _Optional_ Download configs to current directory:
    `npx degit github.com:qudo-code/template--config-only --force`
-6. If downloaded styles, be sure to add
+4. If downloaded styles, be sure to add
    `import "src/styles/main.scss";` to your `main.js`.
 
 **All at once**
 
 `npx degit github.com:qudo-code/template--svelte && npx degit github.com:qudo-code/template--scss src/styles && npx degit github.com:qudo-code/template--config-only --force`
+
+### Sveltekit
+1. Scaffold Svelte boilerplate in current directory using my template: `npx degit github.com:qudo-code/template--sveltekit`
+2. _Optional_ Download my base styles to `src/styles`:
+   `npx degit github.com:qudo-code/template--scss src/styles`
+3. _Optional_ Download configs to current directory:
+   `npx degit github.com:qudo-code/template--config-only --force`
+4. If downloaded styles, be sure to add
+```html
+<style lang="scss" global>
+  @import "../styles/main.scss";
+</style>
+```
+to your top level `__layout.svelte` file.
+
+**All at once**
+
+`npx degit github.com:qudo-code/template--sveltekit && npx degit github.com:qudo-code/template--scss src/styles && npx degit github.com:qudo-code/template--config-only --force`
 
 ## ✍️ Gists
 Code snippets that I have found useful to keep around.
