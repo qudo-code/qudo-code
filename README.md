@@ -18,7 +18,7 @@ import "src/styles/main.scss";
 ```
 
 ## 🛠 Just SvelteKit
-Scaffold Svelte boilerplate in current directory using my template:
+Scaffold SvelteKit boilerplate in current directory using my template:
 ```
 npx degit github.com:qudo-code/template--sveltekit
 ```
