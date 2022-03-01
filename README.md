@@ -47,6 +47,7 @@ Code snippets that I have found useful to keep around.
 ## 🚀 Templates
 Templates I have developed and frequently use to quickly spin up projects.
 - [Svelte Template](https://github.com/qudo-code/template--svelte)
+- [SvelteKit Template](https://github.com/qudo-code/template--sveltekit)
 - [NPM Package Template](https://github.com/qudo-code/template--npm-package)
 - [Markdown Website (lazy website)](https://github.com/qudo-code/template--markdown-website)
 - [Electron + Express + Svelte](https://github.com/qudo-code/template--electron-express-svelte)
