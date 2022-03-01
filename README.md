@@ -7,36 +7,48 @@ I code things, I design things, I teach things and onboard new devs to the Inter
 
 Open your terminal and run something like `mkdir my-new-project && cd my-new-project`. Then run the following commands which will explode code in your current directory.
 
-### Svelte
-1. Scaffold Svelte boilerplate in current directory using my template: `npx degit github.com:qudo-code/template--svelte`
-2. _Optional_ Download my base styles to `src/styles`:
-   `npx degit github.com:qudo-code/template--scss src/styles`
-3. _Optional_ Download configs to current directory:
-   `npx degit github.com:qudo-code/template--config-only --force`
-4. If downloaded styles, be sure to add
-   `import "src/styles/main.scss";` to your `main.js`.
+## 🛠 Just Svelte
+Scaffold Svelte boilerplate in current directory using my template.
+```
+npx degit github.com:qudo-code/template--svelte
+```
+If you decide to download the base styles below, be sure to add the following to entrypoint (`main.js`).
+```
+import "src/styles/main.scss";
+```
 
-**All at once**
-
-`npx degit github.com:qudo-code/template--svelte && npx degit github.com:qudo-code/template--scss src/styles && npx degit github.com:qudo-code/template--config-only --force`
-
-### SvelteKit
-1. Scaffold Svelte boilerplate in current directory using my template: `npx degit github.com:qudo-code/template--sveltekit`
-2. _Optional_ Download my base styles to `src/styles`:
-   `npx degit github.com:qudo-code/template--scss src/styles`
-3. _Optional_ Download configs to current directory:
-   `npx degit github.com:qudo-code/template--config-only --force`
-4. If downloaded styles, be sure to add
+## 🛠 Just SvelteKit
+Scaffold Svelte boilerplate in current directory using my template:
+```
+npx degit github.com:qudo-code/template--sveltekit
+```
+If you decide to download the base styles below, be sure to add the following to your top level `__layout.svelte` file.
 ```html
 <style lang="scss" global>
   @import "../styles/main.scss";
 </style>
 ```
-to your top level `__layout.svelte` file.
 
-**All at once**
+## ❔ Optional Styles/Configs
+Download my base styles to `src/styles`.
+```
+npx degit github.com:qudo-code/template--scss src/styles
+```
+Download my configs to current directory.
+```
+npx degit github.com:qudo-code/template--config-only --force
+```
 
-`npx degit github.com:qudo-code/template--sveltekit && npx degit github.com:qudo-code/template--scss src/styles && npx degit github.com:qudo-code/template--config-only --force`
+### 🧠 Alpha Plays
+**🚀 Svelte + Styles + Configs**
+```
+npx degit github.com:qudo-code/template--svelte && npx degit github.com:qudo-code/template--scss src/styles && npx degit github.com:qudo-code/template--config-only --force
+```
+
+**🚀 SvelteKit + Styles + Configs**
+```
+npx degit github.com:qudo-code/template--sveltekit && npx degit github.com:qudo-code/template--scss src/styles && npx degit github.com:qudo-code/template--config-only --force
+```
 
 ## ✍️ Gists
 Code snippets that I have found useful to keep around.
