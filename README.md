@@ -57,6 +57,7 @@ Code snippets that I have found useful to keep around.
 - [State Factory (Svelte)](https://gist.github.com/qudo-code/e241814d8448d0c1cccb4b998eda5cea)
 - [JSON.gqlify()](https://gist.github.com/qudo-code/391bace184936e20ea4cf091db896814)
 - [JavaScript Image Layering](https://gist.github.com/qudo-code/3797880ed684487b5f3ac558c4fdb7ef)
+- [Get SOL Balance](https://gist.github.com/qudo-code/5fff1f5f72fa7e40bbb7a93e3d1bd2ee)
  
 [See All](https://gist.github.com/qudo-code)
 
