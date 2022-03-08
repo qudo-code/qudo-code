@@ -58,6 +58,7 @@ Code snippets that I have found useful to keep around.
 - [JSON.gqlify()](https://gist.github.com/qudo-code/391bace184936e20ea4cf091db896814)
 - [JavaScript Image Layering](https://gist.github.com/qudo-code/3797880ed684487b5f3ac558c4fdb7ef)
 - [Get SOL Balance](https://gist.github.com/qudo-code/5fff1f5f72fa7e40bbb7a93e3d1bd2ee)
+- [Scheduled Jobs in Node](https://gist.github.com/qudo-code/e084f13b5ad6b80fdbbad250fdcf7b30)
  
 [See All](https://gist.github.com/qudo-code)
 
