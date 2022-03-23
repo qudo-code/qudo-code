@@ -54,6 +54,7 @@ npx degit github.com:qudo-code/template--sveltekit && npx degit github.com:qudo-
 
 ## ✍️ Gists
 Code snippets that I have found useful to keep around.
+- [Timestamp to Pretty Time](https://gist.github.com/qudo-code/f33653cff0b5431914fa64cd45c223d9)
 - [SVG Icon Caching w/<use> (Svelte)](https://gist.github.com/qudo-code/5ab764ea1787f5d5475f5493d27a7ec7)
 - [State Factory (Svelte)](https://gist.github.com/qudo-code/e241814d8448d0c1cccb4b998eda5cea)
 - [JSON.gqlify()](https://gist.github.com/qudo-code/391bace184936e20ea4cf091db896814)
