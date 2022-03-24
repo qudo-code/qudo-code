@@ -2,8 +2,6 @@
 
 I code things, I design things, I teach things and onboard new devs to the Internetverse.
 
-🌐 [qudo.site](https://qudo.site)
-
 ## 🏃‍♂️💨 Project Quickstarts
 ❗️Create a project folder before running any of the following quickstart commands.
 
@@ -131,10 +129,7 @@ See config files I use across projects.
 
 - **Some Discord bot stuff** -- recently I figured out how to make a bot for the Snifty server that will return the current price of any ticker symbol. You can use it by typing `!SYMBOL` in any channel and it will reply to your message with the current price.
 
-
 ## 💬 Connect
-- **$SOL Address:** [qudo.sol](https://naming.bonfida.org/#/domain/qudo)
-- **Discord:** [http://discord.com/users/631200715473158146](http://discord.com/users/631200715473158146)
-- **Twitter:** [https://twitter.com/home](https://twitter.com/home)
+- [Send me a !Ding] to (https://famousfoxes.com/ding)
 
 🤝
