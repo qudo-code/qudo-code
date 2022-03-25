@@ -130,6 +130,6 @@ See config files I use across projects.
 - **Some Discord bot stuff** -- recently I figured out how to make a bot for the Snifty server that will return the current price of any ticker symbol. You can use it by typing `!SYMBOL` in any channel and it will reply to your message with the current price.
 
 ## 💬 Connect
-- [Send a !Ding](https://famousfoxes.com/ding) to qudo.sol.
+- Send a [!Ding](https://famousfoxes.com/ding) to qudo.sol.
 
 🤝
