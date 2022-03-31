@@ -52,7 +52,7 @@ npx degit github.com:qudo-code/template--sveltekit && npx degit github.com:qudo-
 
 ## ✍️ Gists
 Code snippets that I have found useful to keep around.
-- [Create Token (Solana)](https://gist.github.com/qudo-code/f4441516eb11b451c0f9fe1e06a7815e)
+- [Personal Solana Cheat Sheet](https://gist.github.com/qudo-code/f4441516eb11b451c0f9fe1e06a7815e)
 - [Timestamp to Pretty Time](https://gist.github.com/qudo-code/f33653cff0b5431914fa64cd45c223d9)
 - [SVG Icon Caching w/<use> (Svelte)](https://gist.github.com/qudo-code/5ab764ea1787f5d5475f5493d27a7ec7)
 - [State Factory (Svelte)](https://gist.github.com/qudo-code/e241814d8448d0c1cccb4b998eda5cea)
@@ -118,16 +118,6 @@ See config files I use across projects.
 - Desk: Fully Jarvis Bamboo
 - Mic: Audio-Technica ATR2100x
 - Monitor: Samsung C49HG9x
-
-## 💡 What The Dev Doin
-
-- **Some crypto stuff** -- building tools for the NFT space in [Solana](https://solana.com). Me and some friends are developing a community and artwork generator to make it easy for creatives to get their generative artwork on the blockchain. [Join Discord](https://discord.gg/z4DU5UwX).
-
-- **Some state machine stuff** -- working on this POC called [State Machine Snacks](https://github.com/qudo-code/state-machine-snacks). Also checkout [xstate-component-tree](https://github.com/tivac/xstate-component-tree) which heavily inspired SMS.
-
-- **Some drone stuff** -- a super back burner side project, but me and a friend are building a drone using a Rasberry Pi Zero running Python. End goal would be to make a bot that can hover and follow a person using a [Coral](https://coral.ai/products/accelerator/) for image processing.
-
-- **Some Discord bot stuff** -- recently I figured out how to make a bot for the Snifty server that will return the current price of any ticker symbol. You can use it by typing `!SYMBOL` in any channel and it will reply to your message with the current price.
 
 ## 💬 Connect
 - Send a [!Ding](https://famousfoxes.com/ding) to `qudo.sol`.
