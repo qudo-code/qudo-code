@@ -42,12 +42,12 @@ npx degit github.com:qudo-code/template--config-only --force
 ### 🧠 Alpha Plays
 **🚀 Svelte + Styles + Configs**
 ```
-npx degit github.com:qudo-code/template--svelte && npx degit github.com:qudo-code/template--scss src/styles && npx degit github.com:qudo-code/template--config-only --force
+npx degit github.com:qudo-code/template--svelte --force && npx degit github.com:qudo-code/template--scss src/styles --force && npx degit github.com:qudo-code/template--config-only --force
 ```
 
 **🚀 SvelteKit + Styles + Configs**
 ```
-npx degit github.com:qudo-code/template--sveltekit && npx degit github.com:qudo-code/template--scss src/styles && npx degit github.com:qudo-code/template--config-only --force
+npx degit github.com:qudo-code/template--sveltekit --force && npx degit github.com:qudo-code/template--scss src/styles --force && npx degit github.com:qudo-code/template--config-only --force
 ```
 
 ## ✍️ Gists
