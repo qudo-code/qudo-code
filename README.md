@@ -3,55 +3,16 @@
 I code things, I design things, I teach things and onboard new devs to the Internetverse.
 
 ## 🏃‍♂️💨 Project Quickstarts
-❗️Create a project folder before running any of the following quickstart commands.
+I've created various templates for myself to quickly spin up projects. Feel free to use!
+- [Svelte Template](https://github.com/qudo-code/template--svelte)
+- [SvelteKit Template](https://github.com/qudo-code/template--sveltekit)
+- [NPM Package Template](https://github.com/qudo-code/template--npm-package)
+- [Markdown Website (lazy website)](https://github.com/qudo-code/template--markdown-website)
+- [Electron + Express + Svelte](https://github.com/qudo-code/template--electron-express-svelte)
+- [Discord Bot Template](https://github.com/qudo-code/template--discord-bot)
 
-Open your terminal and run something like `mkdir my-new-project && cd my-new-project`. Then run the following commands which will explode code in your current directory.
-
-## 🛠 Just Svelte
-Scaffold Svelte boilerplate in current directory using my template.
-```
-npx degit github.com:qudo-code/template--svelte
-```
-If you decide to download the base styles below, be sure to add the following to entrypoint (`main.js`).
-```
-import "src/styles/main.scss";
-```
-
-## 🛠 Just SvelteKit
-Scaffold SvelteKit boilerplate in current directory using my template:
-```
-npx degit github.com:qudo-code/template--sveltekit
-```
-If you decide to download the base styles below, be sure to add the following to your top level `__layout.svelte` file.
-```html
-<style lang="scss" global>
-  @import "../styles/main.scss";
-</style>
-```
-
-## ❔ Optional Styles/Configs
-Download my base styles to `src/styles`.
-```
-npx degit github.com:qudo-code/template--scss src/styles
-```
-Download my configs to current directory.
-```
-npx degit github.com:qudo-code/template--config-only --force
-```
-
-### 🧠 Alpha Plays
-**🚀 Svelte + Styles + Configs**
-```
-npx degit github.com:qudo-code/template--svelte --force && npx degit github.com:qudo-code/template--scss src/styles --force && npx degit github.com:qudo-code/template--config-only --force
-```
-
-**🚀 SvelteKit + Styles + Configs**
-```
-npx degit github.com:qudo-code/template--sveltekit --force && npx degit github.com:qudo-code/template--scss src/styles --force && npx degit github.com:qudo-code/template--config-only --force
-```
-
-## ✍️ Gists
-Code snippets that I have found useful to keep around.
+## 💡 Gists
+Some handy knowledge bits I like to keep around.
 - [Get NFTs In Wallet (Solana)](https://gist.github.com/qudo-code/a5ed7ed56adae1e98a5f282120dcf4cc)
 - [Personal Solana Cheat Sheet](https://gist.github.com/qudo-code/f4441516eb11b451c0f9fe1e06a7815e)
 - [Timestamp to Pretty Time](https://gist.github.com/qudo-code/f33653cff0b5431914fa64cd45c223d9)
@@ -64,31 +25,24 @@ Code snippets that I have found useful to keep around.
  
 [See All](https://gist.github.com/qudo-code)
 
-## 🚀 Templates
-Templates I have developed and frequently use to quickly spin up projects.
-- [Svelte Template](https://github.com/qudo-code/template--svelte)
-- [SvelteKit Template](https://github.com/qudo-code/template--sveltekit)
-- [NPM Package Template](https://github.com/qudo-code/template--npm-package)
-- [Markdown Website (lazy website)](https://github.com/qudo-code/template--markdown-website)
-- [Electron + Express + Svelte](https://github.com/qudo-code/template--electron-express-svelte)
-- [Discord Bot Template](https://github.com/qudo-code/template--discord-bot)
 
-[See All](https://github.com/qudo-code?tab=repositories&q=template&type=public&language=&sort=)
-
-## 📦 Public Projects
-- [fx(hash) Generative Artwork Framework (WIP)](https://github.com/snifty-repo/fx-candy)
-- [State Machine Snacks](https://github.com/qudo-code/state-machine-snacks)
-
-## 🎨 My Styles
+## 🎨 My Base Styles
+I use this SCSS in most projects as a boilerplate to get started. Contains a grid system, padding/marging classes and other various utilities.
 
 #### Add To Project
-1. Download to `./styles`: `npx degit github.com:qudo-code/template--scss styles`
-2. Reference in your entrypoint: `import "./styles/main.scss"`
-
+This will vary based on your architecture but implementation will look something like...
+- Download styles repo to `./styles`: `npx degit github.com:qudo-code/template--scss styles`
+- Svelte: Reference in your entrypoint: `import "./styles/main.scss"`
+- SvelteKit: In top level `__layout.svelte`.
+```html
+  <style lang="scss" global>
+    @import "../styles/main.scss";
+  </style>
+```
 [SCSS Boilerplate (grid + base styles)](https://github.com/qudo-code/template--scss)
 
 ## ⚙️ My Configs
-See config files I use across projects.
+Configs I use across projects.
 - ESlist
 - Stylelint
 - Babel
@@ -97,8 +51,15 @@ See config files I use across projects.
 #### Add To Project
 1. Download to current directory: `npx degit github.com:qudo-code/template--config-only`
 2. Make sure you have [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) and [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) extensions installed.
+3. Install dependencies `npm install -D eslint eslint-plugin-import eslint-plugin-svelte3 stylelint-config-idiomatic-order stylelint-config-sass-guidelines stylelint-config-standard stylelint-declaration-use-variable stylelint-order stylelint-scss @tivac/eslint-config`
 
 [Configs Repo](https://github.com/qudo-code/template--config-only)
+
+
+## 📦 Public Projects
+- [fx(hash) Generative Artwork Framework (WIP)](https://github.com/snifty-repo/fx-candy)
+- [State Machine Snacks](https://github.com/qudo-code/state-machine-snacks)
+
 
 ## 🧑‍💻 VSCode Must Haves
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
