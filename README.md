@@ -82,6 +82,5 @@ Configs I use across projects.
 - Monitor: Samsung C49HG9x
 
 ## 💬 Connect
-- Send a [!Ding](https://famousfoxes.com/ding) to `qudo.sol`.
+🐦 [_qudo](https://twitter.com/_qudo)
 
-🤝
