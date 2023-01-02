@@ -92,6 +92,7 @@ Kind of a joke, but kind of useful. Sometiemes you need info online real fast an
 # Resources
 🧵 = Twitter Thread
 📝 = Article/Blog Post
+- 🧵 [Image Processing w/Vite](https://twitter.com/_qudo/status/1609985428593184768?s=20&t=vIUWBh0_pWh2RuNitoCiFA)
 - 🧵 [Intro to HTML NFTs](https://twitter.com/_qudo/status/1586860095841128449?s=20&t=9forSndJ2zDRblOU3Yv6_g)
 - 🧵 [Generative HTML NFTs on ExchangeArt](https://twitter.com/_qudo/status/1591151089164095490?s=20&t=9forSndJ2zDRblOU3Yv6_g)
 - 🧵 [Conway's Game of Life NFT](https://twitter.com/_qudo/status/1592177938761666561?s=20&t=9forSndJ2zDRblOU3Yv6_g)
