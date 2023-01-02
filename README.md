@@ -66,7 +66,7 @@ An example implementation of how "Sign in With Solana" could work using SvelteKi
 
 [📦 View Repo](https://github.com/qudo-code/svelte-sign-in-with-solana)
 
-<hr />
+
 
 ## Electron + Express + Svelte
 Kind of a wild stack, but this is a cool POC I made of an Electron app that communicates with a local Express app to do things on the filesystem.
