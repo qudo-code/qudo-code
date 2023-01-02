@@ -1,4 +1,3 @@
-# qudo
 I build web apps. Here are some of my recent projects, experiments and resources.
 
 ## Website
