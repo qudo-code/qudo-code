@@ -3,16 +3,19 @@ I build web apps. Here are some of my recent projects.
 
 🌐 [qudo.site](https://qudo.site)
 
-### Community & Web3 Project
+#### Community & Web3 Project
 I've created a web3 focused project and Discord community of builders and creatives.
 
 🌐 [solanaterminal.com](https://solanaterminal.com)
 
-## 🏃🏻‍♂️💨 Quickstarts
-Repos I have made to quickly spin up projects.
-
+#### ☁️ Hosting
 I like to use [Vercel](https://vercel.com/) for my web apps and [Replit](https://replit.com/) for my bots and background services. 
 
+#### 🛠️ Configs
+Most of my templates should come with these but I keep things like my `.vscode` and `.eslintrc` configs I use [here](https://github.com/qudo-code/qudo-code).
+
+## 🏃🏻‍♂️💨 Quickstarts/Templates
+Repos I have made to quickly spin up projects.
 <hr />
 
 ### SvelteKit Starter
