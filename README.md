@@ -13,6 +13,8 @@ Repos I have made to quickly spin up projects.
 
 I like to use [Vercel](https://vercel.com/) for my web apps and [Replit](https://replit.com/) for my bots and background services. 
 
+<hr />
+
 ### SvelteKit Starter
 SvelteKit base template that I use to build most things. Start here, add on what you need. Find guides on things I've figured out below.  
 
@@ -24,6 +26,8 @@ SvelteKit base template that I use to build most things. Start here, add on what
 
 [📦 View Repo](https://github.com/qudo-code/template--sveltekit)
 
+<hr />
+
 ### Svelte App
 Sometimes you don't need a whole meta-framework like SvelteKit. Here is a minimal CSR Svelte app template.
 
@@ -31,12 +35,16 @@ Sometimes you don't need a whole meta-framework like SvelteKit. Here is a minima
 
 [📦 View Repo](https://github.com/qudo-code/template--svelte)
 
+<hr />
+
 ### Discord Bot
 A decent Discord bot template that uses Discord.js. Host this on Replit.
 
 [🚀 Use This Template](https://github.com/qudo-code/template--discord-bot/generate)
 
 [📦 View Repo](https://github.com/qudo-code/template--discord-bot)
+
+<hr />
 
 ### NPM Package
 Boilerplate and handy scripts I use to create, deploy, and manage NPM packages.
