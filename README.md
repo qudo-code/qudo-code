@@ -53,6 +53,8 @@ Boilerplate and handy scripts I use to create, deploy, and manage NPM packages.
 
 [📦 View Repo](https://github.com/qudo-code/template--npm-package)
 
+<hr />
+
 ## 🧪 Experiments
 ### Sign in With Solana
 An example implementation of how "Sign in With Solana" could work using SvelteKit and MongoDB. This involves communicating with the Solana Wallet Adapter package used to prompt the user to connect their wallet and sign a secure message to verify ownership.
@@ -81,6 +83,8 @@ This project is a framework and plugin runner built on XState that allows you to
 Kind of a joke, but kind of useful. Sometiemes you need info online real fast and want it to be as easy as copying a repo and writing some markdown.
 
 [📦 View Repo](https://github.com/qudo-code/template--markdown-website)
+
+<hr />
 
 ## Resources
 🧵 = Twitter Thread
