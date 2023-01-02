@@ -1,9 +1,11 @@
 # qudo
 I build web apps. Here are some of my recent projects.
+
 🌐 [qudo.site](https://qudo.site)
 
-#### Community & Web3 Project
+### Community & Web3 Project
 I've created a web3 focused project and Discord community of builders and creatives.
+
 🌐 [solanaterminal.com](https://solanaterminal.com)
 
 ## 🏃🏻‍♂️💨 Quickstarts
@@ -19,24 +21,28 @@ SvelteKit base template that I use to build most things. Start here, add on what
 - ESLint Config
 
 [🚀 Use This Template](https://github.com/qudo-code/template--sveltekit/generate)
+
 [📦 View Repo](https://github.com/qudo-code/template--sveltekit)
 
 ### Svelte App
 Sometimes you don't need a whole meta-framework like SvelteKit. Here is a minimal CSR Svelte app template.
 
 [🚀 Use This Template](https://github.com/qudo-code/template--svelte/generate)
+
 [📦 View Repo](https://github.com/qudo-code/template--svelte)
 
 ### Discord Bot
 A decent Discord bot template that uses Discord.js. Host this on Replit.
 
 [🚀 Use This Template](https://github.com/qudo-code/template--discord-bot/generate)
+
 [📦 View Repo](https://github.com/qudo-code/template--discord-bot)
 
 ### NPM Package
 Boilerplate and handy scripts I use to create, deploy, and manage NPM packages.
 
 [🚀 Use This Template](https://github.com/qudo-code/template--npm-package/generate)
+
 [📦 View Repo](https://github.com/qudo-code/template--npm-package)
 
 ## 🧪 Experiments
@@ -54,6 +60,7 @@ Kind of a wild stack, but this is a cool POC I made of an Electron app that comm
 This project is a framework and plugin runner built on XState that allows you to do things like define app views with a state machine. The repo provides detailed usage documentation and instructions on how to develop plugins.
 
 [📦 View Repo](https://github.com/qudo-code/template--electron-express-svelte)
+
 [⚙️ Early POC as a Svelte REPL](https://svelte.dev/repl/41dcf49502434b6a9a22acd5d042bfae?version=3.55.0)
 
 
