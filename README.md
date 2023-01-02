@@ -19,7 +19,7 @@ SvelteKit base template that I use to build most things. Start here, add on what
 - ESLint Config
 
 [🚀 Use This Template](https://github.com/qudo-code/template--sveltekit/generate)
-[📦 View Repo](https://github.com/qudo-code/template--sveltekit/generate)
+[📦 View Repo](https://github.com/qudo-code/template--sveltekit)
 
 ### Svelte App
 Sometimes you don't need a whole meta-framework like SvelteKit. Here is a minimal CSR Svelte app template.
