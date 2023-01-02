@@ -39,7 +39,7 @@ Sometimes you don't need a whole meta-framework like SvelteKit. Here is a minima
 
 [📦 View Repo](https://github.com/qudo-code/template--svelte)
 
-<hr />
+
 
 ## Discord Bot
 A decent Discord bot template that uses Discord.js. Host this on Replit.
