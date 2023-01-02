@@ -75,6 +75,7 @@ This project is a framework and plugin runner built on XState that allows you to
 
 [⚙️ Early POC as a Svelte REPL](https://svelte.dev/repl/41dcf49502434b6a9a22acd5d042bfae?version=3.55.0)
 
+<hr />
 
 ### Markdown Website (lazy website)
 Kind of a joke, but kind of useful. Sometiemes you need info online real fast and want it to be as easy as copying a repo and writing some markdown.
