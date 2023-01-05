@@ -31,6 +31,17 @@ SvelteKit base template that I use to build most things. Start here, add on what
 [📦 View Repo](https://github.com/qudo-code/template--sveltekit)
 
 
+## SvelteKit Authentication
+Implementations of common authentication patterns wired up to a MongoDB database.
+
+- Simple Sign In
+- Session Sign In [wip]
+- Sign In w/Solana (find this one [here](https://github.com/qudo-code/svelte-sign-in-with-solana) for now)
+- Sign In w/Discord [wip]
+- Sign In w/Twitter [wip]
+
+[📦 View Repo](https://github.com/qudo-code/template--sveltekit-authentication)
+
 
 ## Svelte App
 Sometimes you don't need a whole meta-framework like SvelteKit. Here is a minimal CSR Svelte app template.
