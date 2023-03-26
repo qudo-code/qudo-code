@@ -10,4 +10,4 @@ Svelte boilerplate, great for simple lightweight UIs.
 Quickly spin up a new NPM package with TS and linter.
 
 ## 🚀 [Turborepo Template](https://github.com/qudo-code/template--turborepo)
-A template to rule all new ideas. Contains [SvelteKit App Template](https://github.com/qudo-code/template--sveltekit) and [TS Package Template](https://github.com/qudo-code/template--package).
+A template to rule all new ideas. Contains [SvelteKit Template](https://github.com/qudo-code/template--sveltekit) and [TS Package Template](https://github.com/qudo-code/template--package).
