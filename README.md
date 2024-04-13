@@ -1,7 +1,5 @@
 # Quickstarts
 
-[![Qudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=qudo-code)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🌐 [SvelteKit Template](https://github.com/qudo-code/template--sveltekit)
 SvelteKit app boiler with tRPC, Tanstack Query, Tailwind, and linting. Used for most web apps.
 
