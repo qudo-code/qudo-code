@@ -1,11 +1,4 @@
 # Quickstarts
-
-## 🌐 [SvelteKit Template](https://github.com/qudo-code/template--sveltekit)
-SvelteKit app boiler with tRPC, Tanstack Query, Tailwind, and linting. Used for most web apps.
-
-## 📱 [Svelte Template](https://github.com/qudo-code/template--svelte)
-Svelte boilerplate, great for simple lightweight UIs.
-
 ## 🚀 [Smol Svelte w/Cloudflare Worker](https://github.com/matr-world/template--smol-svelte-cloudflare-worker)
 Minimal Svelte UI plus a Cloudflare worker for those times when you just need a client side UI + a couple endpoints. Supa fast.
 
