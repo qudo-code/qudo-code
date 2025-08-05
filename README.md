@@ -1,15 +1,8 @@
-# Quickstarts
-## 🚀 [Smol Svelte w/Cloudflare Worker](https://github.com/matr-world/template--smol-svelte-cloudflare-worker)
-Minimal Svelte UI plus a Cloudflare worker for those times when you just need a client side UI + a couple endpoints. Supa fast.
+Full-stack developer/designer. I like to build apps using the latest tech and share what I figure out.
 
-## 🖼️ [Svelte Single File](https://github.com/matr-world/template--svelte-single-file)
-For those times when you need everything to build to one file. I use this template for making HTML NFTs. Build the project, mint the `index.html` and that's the whole app.
-
-## 📦 [TS Package Template](https://github.com/qudo-code/template--package)
-Quickly spin up a new NPM package with TS and linter.
-
-## 📦 [Svelte Package Template](https://github.com/qudo-code/template--svelte-package)
-Boilerplate for deploying .svelte files as a package.
-
-## 🚀 [Turborepo Template](https://github.com/qudo-code/template--turborepo)
-A template to rule all new ideas. Contains [SvelteKit Template](https://github.com/qudo-code/template--sveltekit) and [TS Package Template](https://github.com/qudo-code/template--package).
+## Quickstarts
+- [Smol Svelte w/Cloudflare Worker](https://github.com/matr-world/template--smol-svelte-cloudflare-worker)
+- [Svelte Single File](https://github.com/matr-world/template--svelte-single-file)
+- [TS Package Template](https://github.com/qudo-code/template--package)
+- [Svelte Package Template](https://github.com/qudo-code/template--svelte-package)
+- [Turborepo Template](https://github.com/qudo-code/template--turborepo)
